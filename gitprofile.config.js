@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'paytonalyssahudson', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,9 +11,9 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'paytonalyssahudson',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
@@ -24,9 +24,9 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'hudsonpa22@students.ecu.edu',
   },
   resume: {
     fileUrl:
@@ -50,18 +50,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Moss Adams LLP',
+      position: 'Assurance Staff',
+      from: 'October 2023',
+      to: 'Future',
+      companyLink: 'https://mossadams.com/about/Locations/Portland',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Enterprise Holdings, LLC',
+      position: 'Accounting Intern',
+      from: 'May 2022',
+      to: 'July 2022',
+      companyLink: 'https://careers.enterprise.com/about-us',
     },
   ],
   /* certifications: [
@@ -74,16 +74,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Louisville',
+      degree: 'Accounting, BSBA',
+      from: '2019',
+      to: '2022',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'East Carolina University',
+      degree: 'Masters in Accounting, MSA',
+      from: '2022',
+      to: '2023',
     },
   ],
 
