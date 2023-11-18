@@ -101,7 +101,7 @@ const config = {
       description:
         'Learn more about me and my future employment endeavors.',
       imageUrl: '',
-      link: '',
+      link: 'https://www.kapwing.com/videos/6559375b3789165b7814bdd0',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
