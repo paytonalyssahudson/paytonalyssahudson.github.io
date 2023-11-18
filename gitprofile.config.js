@@ -52,7 +52,7 @@ const config = {
     {
       company: 'Moss Adams LLP',
       position: 'Assurance Staff',
-      from: 'October 2023',
+      from: 'October 2024',
       to: 'Future',
       companyLink: 'https://mossadams.com/about/Locations/Portland',
     },
@@ -97,9 +97,9 @@ const config = {
       link: '',
     },
     {
-      title: '',
+      title: 'Elevator Pitch',
       description:
-        '',
+        'Learn more about me and my future employment endeavors.',
       imageUrl: '',
       link: '',
     },
