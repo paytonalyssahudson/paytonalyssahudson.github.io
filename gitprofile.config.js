@@ -90,11 +90,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Systems Analysis and Design Project',
+      title: 'Jury Video',
       description:
-        'Group project with in-depth analysis and design implementation on the system of a small company in Greenville, NC.',
+        'My personal experience with my Systems Analysis and Design Project.',
       imageUrl: '',
-      link: '',
+      link: 'https://www.kapwing.com/videos/655be6766afddca0c64ddab0',
     },
     {
       title: 'Elevator Pitch',
@@ -103,6 +103,13 @@ const config = {
       imageUrl: '',
       link: 'https://www.kapwing.com/videos/6559375b3789165b7814bdd0',
     },
+    {
+      title: 'Systems Analysis and Design Project',
+      description:
+        'Group project with in-depth analysis and design implementation on the system of a small businesss in Greenville, NC.',
+      imageUrl: '',
+      link: '',
+    }
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
