@@ -90,11 +90,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Jury Video',
+      title: 'Systems Anlysis and Design Project Pitch',
       description:
         'My personal experience with my Systems Analysis and Design Project.',
       imageUrl: '',
-      link: 'https://www.kapwing.com/videos/655be6766afddca0c64ddab0',
+      link: 'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62fdc3e4-66d9-45f7-bf81-b0c1013d1789',
     },
     {
       title: 'Elevator Pitch',
@@ -108,7 +108,7 @@ const config = {
       description:
         'Group project with in-depth analysis and design implementation on the system of a small businesss in Greenville, NC.',
       imageUrl: '',
-      link: 'https://teams.microsoft.com/_#/apps/3e0a4fec-499b-4138-8e7c-71a9d88a62ed/sections/MyNotebook',
+      link: 'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e463eab-e02f-4ca7-a584-b0c10138d2a7',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
