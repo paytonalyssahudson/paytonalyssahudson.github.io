@@ -108,7 +108,7 @@ const config = {
       description:
         'Group project with in-depth analysis and design implementation on the system of a small businesss in Greenville, NC.',
       imageUrl: '',
-      link: '',
+      link: 'https://teams.microsoft.com/_#/apps/3e0a4fec-499b-4138-8e7c-71a9d88a62ed/sections/MyNotebook',
     }
   ],
   // Display blog posts from your medium or dev account. (Optional)
