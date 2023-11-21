@@ -74,16 +74,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'University of Louisville',
-      degree: 'Accounting, BSBA',
-      from: '2019',
-      to: '2022',
-    },
-    {
       institution: 'East Carolina University',
       degree: 'Masters in Accounting, MSA',
       from: '2022',
       to: '2023',
+    },
+    {
+      institution: 'University of Louisville',
+      degree: 'Accounting, BSBA',
+      from: '2019',
+      to: '2022',
     },
   ],
 
@@ -101,7 +101,7 @@ const config = {
       description:
         'Learn more about me and my future employment endeavors.',
       imageUrl: '',
-      link: 'https://www.kapwing.com/videos/6559375b3789165b7814bdd0',
+      link: 'https://ecu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4559f7b0-4b92-4523-889d-b0c1014231b5',
     },
     {
       title: 'Systems Analysis and Design Project',
