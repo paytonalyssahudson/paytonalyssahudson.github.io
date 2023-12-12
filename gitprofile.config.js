@@ -90,7 +90,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Systems Anlysis and Design Project Pitch',
+      title: 'Systems Analysis and Design Project Pitch',
       description:
         'My personal experience with my Systems Analysis and Design Project.',
       imageUrl: '',
